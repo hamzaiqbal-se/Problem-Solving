@@ -1,7 +1,7 @@
 # ============================================
 # Problem: Write a Function
 # Platform: HackerRank
-# Difficulty: Easy
+# Difficulty: Medium
 # Link: https://www.hackerrank.com/challenges/write-a-function
 # ============================================
 # Task:
